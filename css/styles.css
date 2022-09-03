@@ -542,6 +542,9 @@ h1,h2,h3,h4,ul,p{
     background-color: transparent;
     border: 1px solid rgba(0, 0, 0, 0.1);
 }
+.modal-close-icon{
+    fill: var(--logo-header-color);
+}
 
 /*Portfolio*/
 .button-wrap{
